@@ -18,7 +18,7 @@
 	</parent>
 	<groupId>com.aduro</groupId>
 	<artifactId>aduro-management-system</artifactId>
-	<version>1.0</version>
+	<version>0.0.1-SNAPSHOT</version>
 	<name>aduro-management-system</name>
 	<description>Demo project for Spring Boot multi module application</description>
 
